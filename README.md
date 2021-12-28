@@ -2,7 +2,7 @@
 
 You are required to complete **as much as you can** of the following tasks below.
 
-**NOTE:** This repository uses the [Next.js](https://nextjs.org/docs) as the bootstrapped toolchain.
+**NOTE:** This repository uses [Next.js](https://nextjs.org/docs) as the bootstrapped toolchain.
 
 ## Prerequisites
 
@@ -29,7 +29,7 @@ You can start editing the page by modifying `pages/index.tsx`. The page auto-upd
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
 ### NOTE
-Before you begin the remaining tasks, it is highly recommended that you consider your implementation approach after having read through **Design Considerations** section below.
+Before you begin the remaining tasks, it is highly recommended that you consider your implementation approach after having read through [Design Considerations](https://github.com/jabdul/pharmacy-interview-ui-test#design-considerations-bonus) section below.
 
 
 ## Task 2: UI Implementation from Prototype
