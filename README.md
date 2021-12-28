@@ -71,7 +71,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Design Considerations (BONUS)
 
-Your approach to solving the problems in Tasks 2 and 3 can be strongly influenced by your earlier choices in the before the implementation phase. For a scalable solution, incorporate one more of the following options:
+Your approach to solving the problems in Tasks 2 and 3 is strongly influenced by your earlier choices before the implementation phase. For a scalable solution, incorporate one more of the following options:
 
 1. According to your interpretation of the existing design, implement a responsive layout that is optimised for mobile, tablet, and desktop.
 
