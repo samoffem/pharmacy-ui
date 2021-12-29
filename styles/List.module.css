@@ -1,0 +1,62 @@
+
+.categories{
+    display: flex;
+    margin-top: 20px;
+}
+
+.category{
+    padding: 8px 12px;
+    font-size: 10px;
+    background-color: #f2f5f7;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: 600;
+}
+.category:not(:first-child){
+    margin-left: 16px;
+}
+.category:hover{
+    background-color: #006af4;
+    color: #fff
+}
+.category.active{
+    background-color: #006af4;
+    color: #fff
+}
+
+.listWrap{
+    padding-top: 10px;
+}
+.listItem{
+    display: flex;
+    align-items: center;
+    padding: 20px 0;
+    border-bottom: 1px solid #eceef1;
+}
+.icon{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+    background-color: #e2e8fb;
+}
+
+.itemName{
+    margin-left: 8px;
+}
+.itemName p{
+    font-size: 12px;
+    font-weight: 600;
+}
+.itemName p:last-child{
+    color: #bfcad5;
+    margin-top: 8px;
+    font-weight: 400;
+}
+
+.notFound{
+    text-align: center;
+    margin-top: 30px;
+}
